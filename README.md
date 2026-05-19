@@ -14,7 +14,7 @@
 
 ## Links & Contact
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=paste&logoColor=white)](www.caiofs.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-freire-5b56aa241/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioFS23@hotmail.com)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imgaiu/)
