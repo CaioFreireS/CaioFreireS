@@ -1,6 +1,6 @@
 ## About Me
 
-- Fullstack Developer at [ITIX](https://www.linkedin.com/company/itixti/)
+- Junior Software & AI Engineer at [Taylus](https://www.linkedin.com/company/taylus/) — AI-native LegalTech
 - Technical degree in IT at [IFES](https://www.ifes.edu.br/)
 - Computer Science at [UFES](https://www.ufes.br/)
 
